@@ -1,0 +1,9 @@
+c:\users\jcosta\documents\visual studio 2015\Projects\RedisConnectionTest\RedisConnectionTest\bin\Release\RedisConnectionTest.exe.config
+c:\users\jcosta\documents\visual studio 2015\Projects\RedisConnectionTest\RedisConnectionTest\bin\Release\RedisConnectionTest.exe
+c:\users\jcosta\documents\visual studio 2015\Projects\RedisConnectionTest\RedisConnectionTest\bin\Release\RedisConnectionTest.pdb
+c:\users\jcosta\documents\visual studio 2015\Projects\RedisConnectionTest\RedisConnectionTest\bin\Release\StackExchange.Redis.dll
+c:\users\jcosta\documents\visual studio 2015\Projects\RedisConnectionTest\RedisConnectionTest\bin\Release\StackExchange.Redis.pdb
+c:\users\jcosta\documents\visual studio 2015\Projects\RedisConnectionTest\RedisConnectionTest\bin\Release\StackExchange.Redis.xml
+c:\users\jcosta\documents\visual studio 2015\Projects\RedisConnectionTest\RedisConnectionTest\obj\Release\RedisConnectionTest.csprojResolveAssemblyReference.cache
+c:\users\jcosta\documents\visual studio 2015\Projects\RedisConnectionTest\RedisConnectionTest\obj\Release\RedisConnectionTest.exe
+c:\users\jcosta\documents\visual studio 2015\Projects\RedisConnectionTest\RedisConnectionTest\obj\Release\RedisConnectionTest.pdb
